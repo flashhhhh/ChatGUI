@@ -1,0 +1,33 @@
+.main-container {
+    -fx-background-color: #008080; /* Dark Teal */
+}
+
+.chat-list-view {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #4caf50; /* Green color */
+    -fx-border-width: 2;
+}
+
+.input-box {
+    -fx-spacing: 5;
+    -fx-padding: 10;
+}
+
+.message-text-field {
+    -fx-pref-height: 30;
+    -fx-pref-width: 200;
+    -fx-background-color: #e0f7fa; /* Light Blue */
+}
+
+.send-button {
+    -fx-pref-height: 30;
+    -fx-pref-width: 60;
+    -fx-background-color: #004d40; /* Dark Green */
+    -fx-text-fill: #ffffff; /* White text color */
+}
+/* styles.css */
+
+.chat-header {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
